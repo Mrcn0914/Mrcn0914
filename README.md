@@ -1,16 +1,16 @@
-## Hi there 👋
+**👋 Hi, I'm Mercan!**
 
-<!--
-**Mrcn0914/Mrcn0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm learning Python and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 I study every day to learn something new.
+
+
+📚 Currently focused on Python, pandas, matplotlib, and scikit-learn.
+
+
+🚀 My goal: Start with small projects and build my own AI application.
+
+
+💬 Feel free to reach out for help or just to chat!
